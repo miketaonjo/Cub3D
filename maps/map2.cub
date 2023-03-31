@@ -3,7 +3,7 @@ SO ./textures/mos_so.xpm
 EA ./textures/mos_ea.xpm
 WE ./textures/mos_we.xpm
 
-C 0,201,255
+C 125,254,110
 F 227,213,154
 
 111111111111111111
