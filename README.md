@@ -22,6 +22,7 @@ Controls for movement and rotation are:
 In order to compile :
 <code>make</code>
 
+(Only for Linux environment)
 Execution :
 <code>./cub3D maps/map.cub</code>
 
