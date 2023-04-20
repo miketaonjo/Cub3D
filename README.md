@@ -1,4 +1,4 @@
-# Project name : cub3D
+# Project name : cub3D /*Available only on Linux environment*/
 
 For this project, the assignment is : 
 
@@ -22,7 +22,6 @@ Controls for movement and rotation are:
 In order to compile :
 <code>make</code>
 
-(Only for Linux environment)
 Execution :
 <code>./cub3D maps/map.cub</code>
 
